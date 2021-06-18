@@ -1,0 +1,1 @@
+Allows hooking of datum deletion. Will register a proc to be called when datums are deleted that will allow cleanup thereof. Overriding /Del is bad, apparently, so this is better.
